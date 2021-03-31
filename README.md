@@ -20,5 +20,3 @@ conda install --name myenv --file env.yml
 conda activate myenv
 ## To excute the script
 python nonstandardcode.py
-
-Checking updates
