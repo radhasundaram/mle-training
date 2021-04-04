@@ -1,8 +1,8 @@
 import os
 import tarfile
 
-import matplotlib as mpl
-import matplotlib.pyplot as plt
+import matplotlib as mpl  # noqa
+import matplotlib.pyplot as plt  # noqa
 import numpy as np
 import pandas as pd
 from scipy.stats import randint
@@ -209,4 +209,7 @@ X_test_prepared = X_test_prepared.join(pd.get_dummies(X_test_cat, drop_first=Tru
 
 final_predictions = final_model.predict(X_test_prepared)
 final_mse = mean_squared_error(y_test, final_predictions)
-final_rmse = np.sqrt(final_mse)
+final_rmse =  np.sqrt(final_mse)
+
+
+
