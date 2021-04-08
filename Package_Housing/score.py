@@ -154,7 +154,3 @@ final_rmse = np.sqrt(final_mse)
 logger.info("Final Root Mean Square error is {}".format(final_rmse))
 logger.info("Successfully Completed!!!")
 
-
-
-
-
