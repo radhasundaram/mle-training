@@ -1,0 +1,11 @@
+README.md
+setup.py
+Package_Housing/__init__.py
+Package_Housing/ingest_data.py
+Package_Housing/score.py
+Package_Housing/train.py
+Package_Housing/unittesting.py
+Package_Housing.egg-info/PKG-INFO
+Package_Housing.egg-info/SOURCES.txt
+Package_Housing.egg-info/dependency_links.txt
+Package_Housing.egg-info/top_level.txt
