@@ -19,8 +19,11 @@ How to install and run the code:
 2)Use the env.yaml and create the environment with required packages for the subsequent codes to run
 3)install the Package_Housing-0.1-py3-none-any.whl file in the dist folder 
 4)This will unpack all the required python codes required. 
-In the terminal run python 6)In Python you can now from Package_Housing import ingest_data,train_data
- 7)Each of the individual modules could also be run with the parameters path and datasets name 
+5)In the terminal run python
+6)In Python you can now from Package_Housing import ingest_data,train_data
+7)Each of the individual modules could also be run with the parameters path and datasets name
 8)To run ingest_data -i /location of the processed file to be saved
- 9)To run train.py -i /location of the processed file /location of model artifacts 
-10)To run score.py -i /location of model artifacts /location of the processed file
+9)To run train.py -i /location of the processed file /location of model artifacts
+10)To run score.py -i /location of model artifacts  /location of the processed file
+
+ 
