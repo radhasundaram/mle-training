@@ -26,3 +26,4 @@ How to install and run the code:
 9)To run train.py -i /location of the processed file /location of model artifacts
 10)To run score.py -i /location of model artifacts  /location of the processed file
 
+ 
